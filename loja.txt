@@ -1,0 +1,3 @@
+Nome: Casa | Preço: 2.9
+Nome: Carne | Preço: 45.9
+Nome: Frango | Preço: 29.9

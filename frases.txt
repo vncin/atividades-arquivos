@@ -1,0 +1,3 @@
+Hoje o dia está bonito
+Vou estudar Python
+Arquivos são legais de usar
