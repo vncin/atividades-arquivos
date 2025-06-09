@@ -11,3 +11,4 @@ with open("frases.txt", "r") as arquivo:
         contagem = len(frase.strip().split())
         arq_final.write(f"Linha {n_linha+1}: {contagem}\n")
     arq_final.close()
+print("Fim do arquivo!")
